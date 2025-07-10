@@ -1,0 +1,22 @@
+Graphics Processing Unit (GPU)
+
+A Graphics Processing Unit (GPU) is a specialized electronic circuit designed to accelerate the processing of images and videos. Unlike a Central Processing Unit (CPU), which is a general-purpose processor, a GPU is optimized for parallel processing, making it highly efficient for tasks that involve large datasets and repetitive computations.
+
+Key Features of GPUs:
+- Parallel Processing: GPUs contain thousands of smaller cores that can handle multiple tasks simultaneously, ideal for rendering graphics, machine learning, and scientific simulations.
+- High Throughput: They excel at performing many calculations at once, significantly speeding up tasks like 3D rendering and data analysis.
+- Specialized Architecture: GPUs are built with architectures like NVIDIA's CUDA or AMD's RDNA, tailored for graphics and compute-intensive workloads.
+
+Common Uses:
+- Gaming: GPUs render high-quality graphics in real-time for video games.
+- Machine Learning: They accelerate training and inference in neural networks, widely used in AI applications.
+- Video Editing: GPUs speed up rendering and encoding of high-resolution videos.
+- Cryptocurrency Mining: Their parallel processing power is leveraged for solving complex cryptographic puzzles.
+- Scientific Simulations: GPUs are used in fields like physics, chemistry, and climate modeling for faster computations.
+
+Popular GPU Manufacturers:
+- NVIDIA: Known for GeForce (consumer) and Tesla/Quadro (professional) series.
+- AMD: Offers Radeon (consumer) and Instinct (professional) GPUs.
+- Intel: Emerging with Arc GPUs for gaming and integrated graphics solutions.
+
+GPUs have become essential in modern computing, extending beyond graphics to power advancements in AI, data science, and more.
